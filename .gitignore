@@ -3,3 +3,11 @@ zipfiles/
 .RData
 .Rhistory
 dbextract/
+.env
+ShinyMain/.env
+ShinyUpdate/.env
+ShinyMain/rsconnect/
+ShinyUpdate/rsconnect/
+*.tex
+*~
+*#
